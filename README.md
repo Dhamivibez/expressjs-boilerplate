@@ -93,7 +93,7 @@ npm start
 
 ## 📄 License
 
-MIT License © [Your Name]
+MIT License © Dhamivibez
 
 ---
 
