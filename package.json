@@ -11,14 +11,14 @@
     "dev": "tsx watch src/index.ts"
   },
   "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.3",
     "@types/express": "^5.0.1",
     "@types/node": "^22.13.14",
-    "express": "^4.21.2",
     "nodemon": "^3.1.9",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.2"
-  },
-  "devDependencies": {
-    "tsx": "^4.19.3"
   }
 }
